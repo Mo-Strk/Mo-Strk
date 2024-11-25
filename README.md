@@ -6,7 +6,7 @@
 -😄 Pronouns: he/him
 -⚡ Fun fact: There’s a scale that measures how painful it is to be injured by different things. I wonder what the rating is for fixing code for three days straight and still not getting it to work.
 
-
+ 
 <!---
 Mo-Strk/Mo-Strk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
